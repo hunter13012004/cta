@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273734979703",
+    "project_id": "assesment-740f9",
+    "storage_bucket": "assesment-740f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273734979703:android:910e4db3bb61d3c10d7672",
+        "android_client_info": {
+          "package_name": "com.example.cta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyfER2JXK6Ny97EghlCTCzDU4FK6ir1OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
